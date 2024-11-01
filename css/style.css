@@ -1,0 +1,170 @@
+﻿.sfb-admin-wrap {
+	background-color: #fff!important;
+	margin-left:-20px;
+	font-size: 16px;
+	line-height: 1.42857143;
+	color: #333333;
+	font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.container {
+	width: 100%;
+}
+
+.sfb-float-right-btn {
+	float:right;
+	margin: 20px 0 0 20px;
+}
+
+.sfb-form-wrap {
+	padding: 20px;
+}
+
+.sfb-admin-wrap .tab-pane {
+	padding-top:15px;
+}
+
+.tab-pane .input-div {
+	margin-bottom: 15px;
+}
+
+#sfbsort2 {
+	width: 100%;
+}
+
+.sfb-logo-img {
+	width: 165px;
+	height: 47px;
+}
+.sfb-admin-wrap .navbar {
+	border-radius: 0;
+}
+.sfb-admin-wrap .modal-dialog {
+	margin-top: 60px;
+}
+.sfb-btn-inactive {
+	margin-top: 12px;
+}
+
+.sfb-admin-wrap .btn a:hover {
+	text-decoration: none !important;
+}
+
+.sfb-admin-wrap .form-control:not(textarea) {
+	height: 40px !important;
+}
+
+.checkbox-inline {
+	padding-left:0;
+	font-size:14px;
+}
+
+.sfb-video-container {
+	margin-top:15px;
+	margin-bottom: 15px;
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.sfb-video-container iframe,
+.sfb-video-container object,
+.sfb-video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 95%;
+    height: 100%;
+}
+
+.ssbp-wrap .ssbp-list {
+	min-height: 55px;
+	min-width: 200px;
+}
+
+.sfb-include-list {
+	border: 1px dashed #ADADAD;
+}
+
+#sfbsort2 li {
+	margin-top: 6px;
+}
+
+.sfb-well-instruction {
+	text-align: center;
+	color: #ADADAD;
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+.sfb-admin-wrap .code-font {
+	font-family:Menlo,Monaco,Consolas,"Courier New",monospace !important;
+	font-size: 12px;
+}
+
+.ssbp--theme-4 .ssbp-list li {
+  margin-left: 5px;
+}
+
+.ssbp--theme-4 .ssbp-btn {
+  width: 2.5em;
+  height: 2.5em;
+  line-height: 2.5em;
+}
+
+.ssbp-btn:before {
+	font-size: 18px;
+}
+
+.sfb-btn-save-success {
+	display: none;
+}
+
+.sfb-btn-save, .sfb-btn-save-success {
+	width:65px;
+	border-radius: 5px 0 0 5px;
+	position: fixed;
+	z-index: 10;
+	right: 0;
+  	top: 130px;
+}
+
+.sfb-btn-thank-you {
+	margin-top: -10px;
+}
+
+.sfb-admin-wrap footer {
+	margin-top: 40px;
+	padding: 20px 0 15px 0;
+	border-top: 1px solid #dddddd;
+}
+
+.ssbp-float-right-btn {
+  float: right;
+  margin: 20px 0 0 20px;
+}
+
+.sfb-navlink-blue {
+    color: #fff !important;
+}
+
+.sfb-navlink-blue:hover, .sfb-navlink-blue:focus {
+    color: #4582ec !important;
+}
+
+.margin-bottom {
+    margin-bottom: 10px;
+}
+
+.sfb-responsive-img {
+    width: 100%;
+    height: auto;
+}
+
+.sfb-spacer {
+    margin-top: 20px;
+}
+
+.text-20 {
+    font-size: 20px;
+}
